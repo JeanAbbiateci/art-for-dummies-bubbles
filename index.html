@@ -1,0 +1,156 @@
+﻿<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="fr"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="fr"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="fr"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="fr">
+<!--<![endif]-->
+
+<head>
+    <title>Art et Argent : le marché de l'art mis en bulles #picasso #munch #auction</title>
+    <meta charset="utf-8">
+    <style type="text/css">
+    #content {
+        display:none;
+    }
+    </style>
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script> -->
+    <script>
+    window.jQuery || document.write('<script src="js/jquery-1.6.2.min.js"><\/script>')
+    </script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <script async defer src="js/modernizr-2.0.6.min.js"></script>
+
+</head>
+
+<body>
+    <div class="line-separator"></div>
+    <div id="main" role="main">
+        <div id="view_selection">
+            <li class="btn1">Cette infographie permet de visualiser le marché mondial de l'art. Les bulles représentent les 320 oeuvres qui se sont le mieux vendues entre 2008 et 2012.</li>
+
+            <li class="btn4">&nbsp;&nbsp;
+                <img src="img/filtre.png" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;
+                <big>FILTRER</style>
+                </big>
+            </li>
+
+            <li>
+                <a href="#" id="year" class="btn active">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Année de vente</a>
+            </li>
+            <li>
+                <a href="#" id="top" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Le top 10 mondial</a>
+            </li>
+            <li>
+                <a href="#" id="sexe" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Hommes / femmes</a>
+            </li>
+            <li>
+                <a href="#" id="mort" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Morts / vivants</a>
+            </li>
+            <li>
+                <a href="#" id="nat1" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Par nationalité</a>
+            </li>
+            <li>
+                <a href="#" id="maitre" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Les meilleurs vendeurs</a>
+            </li>
+            <li>
+                <a href="#" id="auction1" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Les lieux de vente</a>
+            </li>
+            <li>
+                <a href="#" id="datesiecle" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Date (par siècle)</a>
+            </li>
+            <li>
+                <a href="#" id="date20" class="btn">
+                    <img src="img/search.png" style="border:none;" height="20">&nbsp;&nbsp;Date (depuis 1900)</a>
+            </li>
+            <li class="btn2"><b><br>
+         <table style="background-color:#F0F0F0;width:190px;margin-left:5px;">
+    <tr>
+    <td style="background-color: #e1005d; width:20px;border: 1px solid #666;"></td>
+    <td style="font-weight:normal;">&nbsp;&nbsp;&nbsp;dessin&nbsp;&nbsp;&nbsp;</td>
+    
+    
+    <td style="background-color: #dfdeb5; width:20px;border: 1px solid #666;"></td>
+    <td style="font-weight:normal;">&nbsp;&nbsp;&nbsp;peinture&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+    <td style="background-color: #178aca; width:20px;border: 1px solid #666;"></td>
+    <td style="font-weight:normal;">&nbsp;&nbsp;&nbsp;sérigraphie&nbsp;&nbsp;&nbsp;</td>
+      
+    <td style="background-color: #7d7963; width:20px;border: 1px solid #666;"></td>
+    <td style="font-weight:normal;">&nbsp;&nbsp;&nbsp;sculpture&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    </table><br>
+         
+         Données :</b> Artprice, Mutualart et Artvalue.
+                <br>
+                <br>
+
+                <b>Méthodologie :</b> le rayon des bulles est proportionnel aux montants de vente. Les prix n'incluent pas la commission des vendeurs.</li>
+            <br>
+            <br>
+
+        </div>
+
+        <div id="wait">
+            <br>
+            <img src="http://freeboxlive.free.fr/img3.depositfiles.com/images/preloader.gif">
+        </div>
+
+        <div id="content">
+
+            <div id="vis"></div>
+
+
+
+            <script defer src="js/plugins.js"></script>
+            <script defer src="js/script.js"></script>
+            <script src="js/CustomTooltip.js"></script>
+            <script src="js/coffee-script.js"></script>
+            <script src="js/d3.min.js"></script>
+            <script src="js/menus.js"></script>
+            <script src="js/d3.csv.min.js"></script>
+            <script src="js/d3.layout.min.js"></script>
+            <script src="js/d3.geom.min.js"></script>
+            <script async defer type="text/coffeescript" src="coffee/vis.coffee"></script>
+            <script type="text/javascript">
+            stLight.options({
+                publisher: "0eda9b79-df79-44e3-8221-f1b8d3f8dd6f"
+            });
+            </script>
+            <script>
+            $(document).ready(function() {
+                $("#content").hide(); //on cache le contenu
+                $("body").append('<div id="wait"></div>')
+            });
+
+            $(window).load(function() {
+                $("#wait").hide();
+                $("#content").show();
+            });
+            </script>
+            <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+
+
+
+
+        </div>
+
+</body>
+
+</html>

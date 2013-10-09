@@ -1,0 +1,320 @@
+id,nom,top,maitre,nat,nat1,title,sexe,mort,auction,auction1,start_year,img,total_amount,media1,surface,date,datesiecle,date20
+300,MUNCH Edvard,1,0,Norway,Europe,Le cri / the scream,1,1,soth,New-York,2012,271.jpg,107000000,A,D,1895,19th,none
+1,PICASSO Pablo,2,4,Spain,Europe,Nu au plateau de sculpteur,1,1,chris,New-York,2010,1.jpg,95000000,A,D,1932,20th,1930
+2,GIACOMETTI Alberto,3,2,Switzerland,Europe,L'Homme qui marche I,1,1,soth,Londres,2010,2.jpg,92521600,B,D,1960,20th,1960
+3,ROTHKO Mark,4,0,USA,Etats-Unis,"Orange, Red, Yellow ",1,1,chris,New-York,2012,272.jpg,77500000,A,D,1961,20th,1960
+4,BACON Francis,5,1,Great Britain,Europe,Triptych,1,1,soth,New-York,2008,3.jpg,77000000,A,D,1976,20th,1970
+5,MONET Claude,6,3,France,Europe,Le bassin aux nymphéas,1,1,chris,Londres,2008,4.jpg,71671400,A,D,1919,20th,1910
+6,ROTHKO Mark,7,0,USA,Etats-Unis,No. 1 (Royal Red And Blue),1,1,soth,New-York,2012,273.jpg,67000000,A,D,1954,20th,1950
+7,MODIGLIANI Amedeo,8,0,Italy,Europe,Nu assis sur un divan - la belle romaine,1,1,soth,New-York,2010,5.jpg,61500000,A,D,1917,20th,1910
+8,QI Baishi,9,0,China,Chine,Eagle Standing on Pine Tree; Four-Character,1,1,autres,Pékin,2011,6.jpg,57202000,A,D,1946,20th,1940
+9,WARHOL Andy,10,6,USA,Etats-Unis,Men in her life,1,1,autres,New-York,2010,7.jpg,56500000,C,D,1962,20th,1960
+10,STILL Clyfford,0,0,USA,Etats-Unis,1949-A-No . 1,1,1,soth,New-York,2011,8.jpg,55000000,A,D,1949,20th,1940
+11,WANG Meng,0,0,China,Chine,Zhi Chuan moving to Mountain,1,1,autres,Pékin,2011,9.jpg,54040000,D,D,14e,14th,none
+12,MALEVICH Kasimir Sevrinovitch,0,0,Ukraine,Europe,Suprematisch Composition,1,1,soth,New-York,2008,10.jpg,53500000,A,D,1916,20th,1910
+13,GIACOMETTI Alberto,0,2,Switzerland,Europe,Grande tête mince,1,1,chris,New-York,2010,11.jpg,47500000,B,D,1954,20th,1950
+14,MODIGLIANI Amedeo,0,0,Italy,Europe,Tête,1,1,chris,Paris,2010,12.jpg,46650450,B,D,1910-1912,20th,1910
+15,BACON Francis,0,1,Great Britain,Europe,Untitled,1,1,chris,Londres,2008,13.jpg,46048250,A,D,1974-1977,20th,1970
+16,PICASSO Pablo,0,4,Spain,Europe,Portrait d'Angel Fernandez de Soto,1,1,chris,Londres,2010,14.jpg,45814900,A,D,1903,20th,1900
+17,ROTHKO Mark,0,0,USA,Etats-Unis,No.15,1,1,chris,New-York,2008,15.jpg,45000000,A,D,1952,20th,1950
+18,WEN ZONG EMPEROR & FANG D.,0,0,China,Chine,Landscape,1,1,autres,Pékin,2010,16.jpg,44850000,D,D,14e,14th,none
+19,MATISSE Henri,0,0,France,Europe,Nu de dos  4 état - Back IV,1,1,chris,New-York,2010,17.jpg,43500000,B,D,1930,20th,1930
+20,RAPHAEL,0,0,Italy,Europe,Head of a Young Apostle,1,1,soth,Londres,2012,274.jpg,42675600,D,D,1519-1520,16th,none
+21,RAPHAEL,0,0,Italy,Europe,Head of a muse,1,1,chris,Londres,2009,18.jpg,42354000,D,D,16e,16th,none
+22,MATISSE Henri,0,0,France,Europe,Les coucous  tapis bleu et rose,1,1,chris,Paris,2009,19.jpg,40953600,A,D,1911,20th,1910
+23,LI Keran,0,0,China,Chine,Mountains in red ,1,1,autres,Pékin,2012,275.jpg,40396040,D,D,1964,20th,1960
+24,TURNER J.M. William,0,0,Great Britain,Europe,Modern Rome - Campo Vaccino,1,1,soth,Londres,2010,20.jpg,40211100,A,D,1839,19th,none
+25,BACON Francis,0,1,Great Britain,Europe,Figure Writing Re!ected In Mirror ,1,1,soth,New-York,2012,276.jpg,40000000,A,D,1976,20th,1970
+26,LICHTENSTEIN Roy,0,0,USA,Etats-Unis,Sleeping Girl ,1,1,soth,New-York,2012,277.jpg,40000000,A,D,1964,20th,1960
+27,WARHOL Andy,0,6,USA,Etats-Unis,200 One Dollar Bills,1,1,soth,New-York,2009,21.jpg,39000000,C,D,1962,20th,1960
+28,MONET Claude,0,3,France,Europe,Nymphéas ,1,1,chris,New-York,2012,278.jpg,39000000,A,D,1905,20th,1900
+29,WARHOL Andy,0,6,USA,Etats-Unis,Statue of Liberty ,1,1,chris,New-York,2012,279.jpg,39000000,C,D,1962,20th,1960
+30,LICHTENSTEIN Roy,0,0,USA,Etats-Unis,I Can See the Whole Room!...and,1,1,chris,New-York,2011,22.jpg,38500000,A,D,1961,20th,1960
+31,KLIMT Gustav,0,0,Austria,Europe,Kirche in Cassone,1,1,soth,Londres,2010,23.jpg,38284800,A,D,1913,20th,1910
+32,GUARDI Francesco,0,0,Italy,Europe,Venice  a View of the Rialto Bridge  Looking,1,1,soth,Londres,2011,24.jpg,38256120,A,D,18e,18th,none
+33,LICHTENSTEIN Roy,0,0,USA,Etats-Unis,Ohhh...Alright...,1,1,chris,New-York,2010,25.jpg,38000000,A,D,1964,20th,1960
+34,MONET Claude,0,3,France,Europe,Le Pont du chemin de fer à Argenteuil,1,1,chris,New-York,2008,26.jpg,37000000,A,D,1873,19th,none
+35,PICASSO Pablo,0,4,Spain,Europe,Nature Morte Aux Tulipes ,1,1,soth,New-York,2012,280.jpg,37000000,A,D,1932,20th,1930
+36,XU Beihong,0,0,China,Chine,Cultivation on the peaceful land,1,1,autres,Pékin,2011,27.jpg,36679200,D,D,1951,20th,1950
+37,PICASSO Pablo,0,4,Spain,Europe,La lecture,1,1,soth,Londres,2011,28.jpg,36274500,A,D,1932,20th,1930
+38,KLIMT Gustav,0,0,Austria,Europe,Litzlberg Am Attersee,1,1,soth,New-York,2011,29.jpg,36000000,A,D,1914-1915,20th,1910
+39,KLINE Franz,0,0,USA,Etats-Unis,Untitled ,1,1,chris,New-York,2012,281.jpg,36000000,A,D,1957,20th,1950
+40,POLLOCK Jackson,0,0,USA,Etats-Unis,Number 4 ,1,1,soth,New-York,2012,282.jpg,36000000,A,D,1951,20th,1950
+41,SCHIELE Egon,0,0,Austria,Europe,Häuser mit bunter wäsche - Vordatdt II,1,1,soth,Londres,2011,30.jpg,35681800,A,D,1914,20th,1910
+42,BACON Francis,0,1,Great Britain,Europe,Study of Nude with Figure in a Mirror,1,1,soth,Londres,2008,31.jpg,35329440,A,D,1969,20th,1960
+43,LÉGER Fernand,0,0,France,Europe,La Femme en Bleu,1,1,soth,New-York,2008,32.jpg,35000000,A,D,1912-1913,20th,1910
+44,WARHOL Andy,0,6,USA,Etats-Unis,Self-Portrait,1,1,chris,New-York,2011,33.jpg,34250000,C,D,1963-1964,20th,1960
+45,MUNCH Edvard,0,0,Norway,Europe,Vampire,1,1,soth,New-York,2008,34.jpg,34000000,A,D,1894,19th,none
+46,BRANCUSI Constantin,0,0,Romania,Europe,Madame L.R.,1,1,chris,Paris,2009,35.jpg,33274800,B,D,1914 1917,20th,1910
+47,DEGAS Edgar,0,0,France,Europe,Danseuse au repos,1,1,soth,New-York,2008,36.jpg,33000000,D,D,1879,19th,none
+48,WARHOL Andy,0,6,USA,Etats-Unis,Double Elvis,1,1,soth,New-York,2012,283.jpg,33000000,C,D,1963,20th,1960
+49,BACON Francis,0,1,Great Britain,Europe,Three studies for portrait of Lucian Freud,1,1,soth,Londres,2011,37.jpg,32957850,A,D,1964,20th,1960
+50,MIRO Joan,0,0,Spain,Europe,Peinture (Etoile Bleue) ,1,1,soth,Londres,2012,284.jpg,32938500,A,D,1927,20th,1920
+51,KLEIN Yves,0,0,France,Europe,Le Rose du bleu (RE 22) ,1,1,chris,Londres,2012,285.jpg,32699100,A,D,1960,20th,1960
+52,KLEIN Yves,0,0,France,Europe,Fire Color 1,1,1,chris,New-York,2012,286.jpg,32500000,A,D,1962,20th,1960
+53,STUBBS George,0,0,Great Britain,Europe,Gimcrack on Newmarket Heath  with a trainer,1,1,chris,Londres,2011,38.jpg,32158000,A,D,1765,18th,none
+54,ALMA-TADEMA Lawrence,0,0,Netherlands - Belgium,Europe,The Finding of Moses,1,1,soth,New-York,2010,39.jpg,32000000,A,D,1904,20th,1900
+55,FU Baoshi,0,0,China,Chine,Landscapes,1,1,autres,autres,2011,40.jpg,31520000,D,D,1964/65,20th,1960
+56,WARHOL Andy,0,6,USA,Etats-Unis,Coca-Cola [4] [Large Coca-Cola],1,1,soth,New-York,2010,41.jpg,31500000,A,D,1962,20th,1960
+57,CONSTABLE John,0,0,Great Britain,Europe,The Lock,1,1,chris,Londres,2012,287.jpg,31356000,A,D,1824,19th,none
+58,BACON Francis,0,1,Great Britain,Europe,Studies for Self-Portrait,1,1,chris,Londres,2008,42.jpg,30672180,A,D,1975,20th,1970
+59,RICHTER Gerhard,0,5,Great Britain,Europe,Abstraktes Bild,1,2,soth,Londres,2012,288.jpg,30445600,A,D,1932,20th,1930
+60,FREUD Lucian,0,0,Great Britain,Europe,Benefits Supervisor Sleeping,1,1,chris,New-York,2008,43.jpg,30000000,A,D,1995,20th,1990
+61,ROTHKO Mark,0,0,USA,Etats-Unis,Untitled No. 17,1,1,chris,New-York,2011,44.jpg,30000000,A,D,1961,20th,1960
+62,KOONS Jeff,0,0,USA,Etats-Unis,Tulips ,1,2,chris,New-York,2012,289.jpg,30000000,B,D,1995,20th,1990
+63,BACON Francis,0,1,Great Britain,Europe,Portrait of Henrietta Moraes ,1,1,chris,Londres,2012,290.jpg,29999100,A,D,1963,20th,1960
+64,BACON Francis,0,1,Great Britain,Europe,Study for Self-Portrait ,1,1,chris,Londres,2012,291.jpg,29896320,A,D,1964,20th,1960
+65,MANET Édouard,0,0,France,Europe,Portrait de Manet par lui-même  en buste,1,1,soth,Londres,2010,45.jpg,29674000,A,D,1878 1879,19th,none
+66,REMBRANDT VAN RIJN,0,0,Netherlands - Belgium,Europe,Portrait of a man with arms akimbo,1,1,chris,Londres,2009,46.jpg,29322000,A,D,1658,17th,none
+67,WARHOL Andy,0,6,USA,Etats-Unis,Double Marlon,1,1,chris,New-York,2008,47.jpg,29000000,C,D,1966,20th,1960
+68,WARHOL Andy,0,6,USA,Etats-Unis,Self Portrait,1,1,soth,New-York,2010,48.jpg,29000000,C,D,1986,20th,1980
+69,ROTHKO Mark,0,0,USA,Etats-Unis,Untitled,1,1,soth,New-York,2010,49.jpg,28000000,A,D,1961,20th,1960
+70,STILL Clyfford,0,0,USA,Etats-Unis,1947-Y-No. 2,1,1,soth,New-York,2011,50.jpg,28000000,A,D,1947,20th,1940
+71,MUNCH Edvard,0,0,Norway,Europe,Girls on a Bridge,1,1,soth,New-York,2008,51.jpg,27500000,A,D,1902,20th,1900
+72,MOORE Henry,0,0,Great Britain,Europe,Reclining Figure : Festival ,1,1,chris,Londres,2012,292.jpg,26841300,B,D,1951,20th,1950
+74,QI Baishi,0,0,China,Chine,Landscape,1,1,autres,Pékin,2011,52.jpg,26786500,D,D,1931,20th,1930
+73,BACON Francis,0,1,Great Britain,Europe,Untitled (Pope),1,1,soth,New-York,2012,293.jpg,26500000,A,D,1954,20th,1950
+75,SEVERINI Gino,0,0,Italy,Europe,Danseuse,1,1,soth,Londres,2008,53.jpg,26483028,A,D,1915,20th,1910
+76,ALMA-TADEMA Lawrence,0,0,Netherlands - Belgium,Europe,The Meeting of Antony and Cleopatra: 41 Bc,1,1,soth,New-York,2011,54.jpg,26000000,A,D,19e,19th,none
+77,PICASSO Pablo,0,4,Spain,Europe,Femme assise dans un fauteuil ,1,1,soth,New-York,2012,294.jpg,26000000,A,D,1941,20th,1940
+78,PICASSO Pablo,0,4,Spain,Europe,Femme assise  robe bleue,1,1,chris,Londres,2011,55.jpg,25872000,A,D,1939,20th,1930
+79,BACON Francis,0,1,Great Britain,Europe,Study for a portrait,1,1,chris,Londres,2011,56.jpg,25536000,A,D,1953,20th,1950
+80,GRIS Juan,0,0,Spain,Europe,Violon et guitare,1,1,chris,New-York,2010,57.jpg,25500000,A,D,1913,20th,1910
+81,JOHNS Jasper,0,0,USA,Etats-Unis,Flag,1,1,chris,New-York,2010,58.jpg,25500000,A,D,1960-1966,20th,1960
+82,MATISSE Henri,0,0,France,Europe,Bouquet de fleurs pour le quatorze juillet,1,1,soth,New-York,2010,59.jpg,25500000,A,D,1919,20th,1910
+83,BACON Francis,0,1,Great Britain,Europe,Three Studies for Self-Portrait,1,1,chris,New-York,2008,60.jpg,25000000,A,D,1976,20th,1970
+84,LICHTENSTEIN Roy,0,0,USA,Etats-Unis,Nude with Red Shirt ,1,1,chris,New-York,2012,295.jpg,25000000,A,D,1995,20th,1990
+85,KLIMT Gustav,0,0,Austria,Europe,Frauenbildnis - Portrait of Ria Munk III,1,1,chris,Londres,2010,61.jpg,24754820,A,D,1917-18,20th,1910
+86,MONDRIAN Piet,0,0,Netherlands - Belgium,Europe,Composition bleu  rouge  jaune et noir,1,1,chris,Paris,2009,62.jpg,24572160,A,D,1922,20th,1920
+87,BACON Francis,0,1,Great Britain,Europe,Head of George Dyer,1,1,soth,Londres,2008,63.jpg,24527730,A,D,1966,20th,1960
+88,WARHOL Andy,0,6,USA,Etats-Unis,Self-Portrait,1,1,chris,New-York,2011,65.jpg,24500000,C,D,1986,20th,1980
+90,GIACOMETTI Alberto,0,2,Switzerland,Europe,Grande femme debout II,1,1,chris,New-York,2008,64.jpg,24500000,B,D,1959-1960,20th,1950
+89,WARHOL Andy,0,6,USA,Etats-Unis,Liz #5 - Early Colored Liz,1,1,autres,New-York,2011,66.jpg,24000000,C,D,1963,20th,1960
+91,MIRO Joan,0,0,Spain,Europe,Painting Poem Le corps de ma brune puisque [...]),1,1,chris,Londres,2012,296.jpg,23683500,A,D,1925,20th,1920
+92,DEGAS Edgar,0,0,France,Europe,Danseuses à la barre,1,1,chris,Londres,2008,67.jpg,23563200,A,D,1880,19th,none
+93,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Untitled ,1,1,chris,New-York,2012,297.jpg,23500000,A,D,1981,20th,1980
+94,TANG Yin,0,0,China,Chine,Landscape,1,1,autres,Pékin,2011,68.jpg,23145000,D,D,16e,16th,none
+95,XU Beihong,0,0,China,Chine,landscape and figure,1,1,autres,autres,2010,69.jpg,23026500,D,D,1938,20th,1930
+96,GIACOMETTI Alberto,0,2,Switzerland,Europe,La Main,1,1,chris,New-York,2010,70.jpg,23000000,B,D,1947,20th,1940
+98,KOONS Jeff,0,0,USA,Etats-Unis,Balloon Flower - Magenta,1,2,chris,Londres,2008,71.jpg,22904550,B,D,1995-2000,20th,1990
+97,REN Yi,0,0,China,Chine,Huafeng People’s Wishes to Emperor Yao,1,1,autres,autres,2011,72.jpg,22533000,D,D,1882,19th,none
+99,ZHU Da,0,0,China,Chine,Landscape,1,1,autres,Pékin,2010,73.jpg,22500000,D,D,17e,17th,none
+100,BACON Francis,0,1,Great Britain,Europe,Studies for Self-Portrait,1,1,chris,New-York,2011,74.jpg,22500000,A,D,1974,20th,1970
+101,WU Bin,0,0,China,Chine,Eighthteen arhats,1,1,autres,Pékin,2009,75.jpg,22121500,D,D,1615,17th,none
+102,MONET Claude,0,3,France,Europe,Le bassin aux nympheas,1,1,soth,New-York,2010,76.jpg,22000000,A,D,1917-19,20th,1910
+103,ZHANG Daqian,0,0,China,Chine,Lotus and Mandarin Ducks,1,1,soth,Hong-Kong,2011,77.jpg,21845000,D,D,1947,20th,1940
+104,WATTEAU Jean Antoine,0,0,France,Europe,La surprise : A Couple embracing while a Figure dressed as Mezzetin Tune,1,1,chris,Londres,2008,78.jpg,21701900,A,D,1718,18th,none
+105,MARC Franz,0,0,Germany,Europe,Weidende Pferde III,1,1,soth,Londres,2008,79.jpg,21663400,A,D,1910,20th,1910
+106,DERAIN André,0,0,France,Europe,Arbres à Collioure,1,1,soth,Londres,2010,80.jpg,21513650,A,D,1905,20th,1900
+107,WARHOL Andy,0,6,USA,Etats-Unis,Big Campbell's Soup Can with Can Opener,1,1,chris,New-York,2010,81.jpg,21250000,A,D,1962,20th,1960
+108,WARHOL Andy,0,6,USA,Etats-Unis,Marlon ,1,1,chris,New-York,2012,298.jpg,21100000,C,D,1966,20th,1960
+109,KLEIN Yves,0,0,France,Europe,MG 9,1,1,soth,New-York,2008,82.jpg,21000000,A,D,1962,20th,1960
+110,FREUD Lucian,0,0,Great Britain,Europe,Naked Portrait with Reflection,1,1,chris,Londres,2008,83.jpg,20912850,A,D,1980,20th,1980
+111,XU Beihong,0,0,China,Chine,Figure,1,1,autres,Pékin,2011,84.jpg,20596270,D,D,none,none,none
+112,PICASSO Pablo,0,4,Spain,Europe,L'aubade,1,1,soth,New-York,2011,85.jpg,20500000,A,D,1967,20th,1960
+113,KANDINSKY Wassily,0,0,Russia,Russie,Studie für Improvisation 8 ,1,1,chris,New-York,2012,299.jpg,20500000,A,D,1909,20th,1900
+114,POLLOCK Jackson,0,0,USA,Etats-Unis,Number 28 ,1,1,chris,New-York,2012,300.jpg,20500000,A,D,1951,20th,1950
+115,SHEN Zhou,0,0,China,Chine,Landscape,1,1,autres,Pékin,2010,86.jpg,20400000,D,D,16e-17e,17th,none
+116,WARHOL Andy,0,6,USA,Etats-Unis,Self-portraits,1,1,soth,Londres,2008,87.jpg,20244960,C,D,1986,20th,1980
+117,MATISSE Henri,0,0,France,Europe,Portrait au manteau bleu,1,1,chris,New-York,2008,88.jpg,20000000,A,D,1935,20th,1930
+118,MONET Claude,0,3,France,Europe,Les Peupliers,1,1,chris,New-York,2011,90.jpg,20000000,A,D,1891,19th,none
+119,ROTHKO Mark,0,0,USA,Etats-Unis,Untitled,1,1,soth,New-York,2010,89.jpg,20000000,A,D,1955,20th,1950
+120,VLAMINCK de Maurice,0,0,France,Europe,Paysage de banlieue,1,1,chris,New-York,2011,91.jpg,20000000,A,D,1905,20th,1900
+121,NEWMAN Barnett,0,0,USA,Etats-Unis,Onthnt V ,1,1,chris,New-York,2012,301.jpg,20000000,A,D,1952,20th,1950
+124,PICASSO Pablo,0,4,Spain,Europe,Jeune fille endormie,1,1,chris,Londres,2011,92.jpg,19404000,A,D,1935,20th,1930
+122,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild (798-3) ,1,2,chris,New-York,2012,302.jpg,19400000,A,D,1993,20th,1990
+123,DALI Salvador,0,0,Spain,Europe,Portrait de Paul Eluard,1,1,soth,Londres,2011,93.jpg,19292400,A,D,1929,20th,1920
+125,KLEIN Yves,0,0,France,Europe,Archisponge -RE 11,1,1,soth,New-York,2008,94.jpg,19000000,A,D,1960,20th,1960
+126,PICASSO Pablo,0,4,Spain,Europe,Femmes lisant - deux personnages,1,1,soth,New-York,2011,95.jpg,19000000,A,D,1934,20th,1930
+127,PICASSO Pablo,0,4,Spain,Europe,Les femmes d'Alger  version L,1,1,chris,New-York,2011,96.jpg,19000000,A,D,1955,20th,1950
+128,ROTHKO Mark,0,0,USA,Etats-Unis,"Black Stripe (Orange, Gold and Black) ",1,1,chris,New-York,2012,303.jpg,19000000,A,D,1957,20th,1950
+129,GIACOMETTI Alberto,0,2,Switzerland,Europe,Le Chat,1,1,chris,New-York,2010,98.jpg,18500000,B,D,1951,20th,1950
+130,GRIS Juan,0,0,Spain,Europe,Livre  pipe et verres,1,1,chris,New-York,2008,97.jpg,18500000,A,D,1915,20th,1910
+131,MATISSE Henri,0,0,France,Europe,Danseuse dans le fauteuil  sol en damier,1,1,soth,New-York,2010,99.jpg,18500000,A,D,1942,20th,1940
+132,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild,1,2,soth,New-York,2011,100.jpg,18500000,A,D,1997,20th,1990
+133,SHI Tao,0,0,China,Chine,Landscape,1,1,autres,Pékin,2011,101.jpg,18355700,D,D,17e,17th,none
+134,FONTANA Lucio,0,0,Argentina,Argentine,Concetto Spaziale  la fine di Dio,1,1,soth,Londres,2008,102.jpg,18260160,A,D,1963,20th,1960
+135,WARHOL Andy,0,6,USA,Etats-Unis,Sixteen Jackies,1,1,soth,New-York,2011,103.jpg,18000000,C,D,1964,20th,1960
+136,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Untitled ,1,1,chris,Londres,2012,304.jpg,17906650,A,D,1981,20th,1980
+137,WANG Meng,0,0,China,Chine,Landscape,1,1,autres,Pékin,2010,104.jpg,17885200,D,D,14e,14th,none
+138,RICHTER Gerhard,0,5,Germany,Europe,Struktur (2),1,2,chris,Londres,2012,305.jpg,17595230,A,D,1989,20th,1980
+139,BACON Francis,0,1,Great Britain,Europe,Three Studies for a Self-Portrait,1,1,soth,New-York,2011,105.jpg,17500000,A,D,1967,20th,1960
+140,STILL Clyfford,0,0,USA,Etats-Unis,Ph-1033,1,1,soth,New-York,2011,106.jpg,17500000,A,D,1976,20th,1970
+141,KOONING de Willem,0,0,USA,Etats-Unis,Abstraction ,1,1,soth,New-York,2012,306.jpg,17500000,A,D,1949,20th,1940
+142,WANG Hui,0,0,China,Chine,Landscape inspired by tang poems,1,1,autres,Pékin,2011,107.jpg,17435000,A,D,1710,18th,none
+143,GIACOMETTI Alberto,0,2,Switzerland,Europe,L’homme qui chavire,1,1,soth,New-York,2009,108.jpg,17200000,B,D,1950,20th,1950
+144,RICHTER Gerhard,0,5,Germany,Europe,Seestüeck (Leicht bewöelkt) ,1,2,chris,New-York,2012,307.jpg,17200000,A,D,1969,20th,1960
+145,LI Keran,0,0,China,Chine,Shaoshan-revolutionary sacred place of chairman [...],1,1,autres,Pékin,2012,308.jpg,17108911,D,D,1974,20th,1970
+146,PICASSO Pablo,0,4,Spain,Europe,La grue,1,1,soth,New-York,2008,109.jpg,17100000,B,D,1951,20th,1950
+147,QIAN Weicheng,0,0,China,Chine,Yandang Mountain,1,1,autres,Pékin,2010,110.jpg,17005600,D,D,18e,18th,none
+148,MODIGLIANI Amedeo,0,0,Italy,Europe,Jeanne hebuterne au chapeau,1,1,soth,New-York,2010,111.jpg,17000000,A,D,1917,20th,1910
+149,CÉZANNE Paul,0,0,USA,Etats-Unis,Joueur de cartes ,1,1,chris,New-York,2012,309.jpg,17000000,A,D,1892,19th,none
+150,MATISSE Henri,0,0,France,Europe,Les pivoines ,1,1,chris,New-York,2012,310.jpg,17000000,A,D,1907,20th,1900
+151,RODIN Auguste,0,0,France,Europe,Eve  grand modèle-version sans rocher,1,1,chris,New-York,2008,112.jpg,16900000,B,D,1881,19th,none
+152,DEGAS Edgar,0,0,France,Europe,Petite danseuse de quatorze ans,1,1,soth,Londres,2009,113.jpg,16809100,B,D,1879-1881,19th,none
+153,CÉZANNE Paul,0,0,France,Europe,Pichet et fruits sur une table,1,1,soth,Londres,2010,114.jpg,16749600,A,D,1893-1894,19th,none
+154,GIACOMETTI Alberto,0,2,Switzerland,Europe,Trois hommes qui marchent I,1,1,soth,Londres,2008,115.jpg,16616028,B,D,1948,20th,1940
+155,WANG Shimin,0,0,China,Chine,landscapes,1,1,autres,Pékin,2011,116.jpg,16569000,D,D,1647,17th,none
+158,JAWLENSKY von Alexej,0,0,Russia,Russie,Schokko,1,1,soth,Londres,2008,117.jpg,16542960,A,D,1910,20th,1910
+157,ROTHKO Mark,0,0,USA,Etats-Unis,White Cloud,1,1,chris,New-York,2011,118.jpg,16500000,A,D,1956,20th,1950
+156,CALDER Alexander,0,0,USA,Etats-Unis,Lily of Force ,1,1,chris,New-York,2012,311.jpg,16500000,B,D,1945,20th,1940
+159,HIRST Damien,0,0,Great Britain,Europe,The Golden Calf,1,2,soth,Londres,2008,119.jpg,16468000,B,D,2008,21th,2000
+160,MONDRIAN Piet,0,0,Netherlands - Belgium,Europe,Composition avec grille 2,1,1,chris,Paris,2009,120.jpg,16381440,A,D,1918,20th,1910
+161,WARHOL Andy,0,6,USA,Etats-Unis,Silver Liz,1,1,chris,New-York,2010,121.jpg,16300000,C,D,1963,20th,1960
+162,CAILLEBOTTE Gustave,0,0,France,Europe,Le pont d'Argenteuil et la Seine,1,1,soth,New-York,2011,124.jpg,16000000,A,D,1883,19th,none
+163,PICASSO Pablo,0,4,Spain,Europe,Deux personnages - Marie-Thérèse et sa soeur lisant,1,1,chris,New-York,2008,122.jpg,16000000,A,D,1934,20th,1930
+164,PICASSO Pablo,0,4,Spain,Europe,Femme au chat assise dans un fauteuil,1,1,chris,New-York,2010,123.jpg,16000000,A,D,1964,20th,1960
+166,RICHTER Gerhard,0,5,Germany,Europe,Gudrun,1,2,soth,New-York,2011,125.jpg,16000000,A,D,1987,20th,1980
+165,PICASSO Pablo,0,4,Spain,Europe,Le baiser,1,1,chris,Londres,2010,126.jpg,15961320,A,D,1969,20th,1960
+167,ZHU Da,0,0,China,Chine,Manedarin ducks and bamboo,1,1,autres,autres,2010,127.jpg,15931800,D,D,1705,18th,none
+168,MORAN Thomas,0,0,Great Britain,Europe,Green River of Wyoming,1,1,chris,New-York,2008,128.jpg,15800000,A,D,1878,19th,none
+169,MATISSE Henri,0,0,France,Europe,Odalisque jouant aux dames,1,1,soth,Londres,2010,129.jpg,15578850,A,D,1928,20th,1920
+170,KLEIN Yves,0,0,France,Europe,IKB 1,1,1,soth,New-York,2008,130.jpg,15500000,A,D,1960,20th,1960
+173,PICASSO Pablo,0,4,Spain,Europe,Le baiser,1,1,soth,New-York,2008,131.jpg,15500000,A,D,1969,20th,1960
+171,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild,1,2,soth,New-York,2012,312.jpg,15500000,A,D,1932,20th,1930
+172,TWOMBLY Cy,0,0,USA,Etats-Unis,Untitled (New York City) ,1,1,soth,New-York,2012,313.jpg,15500000,A,D,1970,20th,1970
+174,WARHOL Andy,0,6,USA,Etats-Unis,Self-Portrait,1,1,chris,Londres,2011,132.jpg,15440640,C,D,1967,20th,1960
+175,WU Guanzhong,0,0,China,Chine,Lion Woods,1,1,autres,Pékin,2011,133.jpg,15440000,D,D,1988,20th,1980
+176,GIACOMETTI Alberto,0,2,Switzerland,Europe,Trois hommes qui marchent II,1,1,soth,Londres,2011,134.jpg,15408050,B,D,1948,20th,1940
+177,PICASSO Pablo,0,4,Spain,Europe,Buste de Françoise,1,1,chris,Londres,2011,135.jpg,15361500,A,D,1946,20th,1940
+178,PICASSO Pablo,0,4,Spain,Europe,Femme à la Fenêtre (Marie-Thérèse) ,1,1,soth,New-York,2012,314.jpg,15300000,A,D,1936,20th,1930
+179,HIRST Damien,0,0,Great Britain,Europe,The Kingdom,1,2,soth,Londres,2008,136.jpg,15215000,B,D,2008,21th,2000
+182,MIRO Joan,0,0,Spain,Europe,La caresse des étoiles,1,1,chris,New-York,2008,137.jpg,15200000,A,D,1938,20th,1930
+181,KOONS Jeff,0,0,USA,Etats-Unis,Pink panther,1,2,soth,New-York,2011,140.jpg,15000000,B,D,1988,20th,1980
+183,KOONS Jeff,0,0,USA,Etats-Unis,Balloon Flower - Blue,1,2,chris,New-York,2010,139.jpg,15000000,B,D,1995 2000,20th,1990
+184,KANDINSKY Wassily,0,0,Russia,Russie,Studie zu Improvisation 3,1,1,chris,New-York,2008,138.jpg,15000000,A,D,1909,20th,1900
+180,TITIAN,0,0,Italy,Europe,A Sacra Conversazione: the Madonna and Child,1,1,soth,New-York,2011,141.jpg,15000000,A,D,16e,16th,none
+185,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild ,1,2,soth,New-York,2012,315.jpg,15000000,A,D,1992,20th,1990
+186,SAN Yu,0,0,China,Chine,Five Nudes,1,1,autres,Hong-Kong,2011,142.jpg,14726560,A,D,1950-1959,20th,1950
+187,SU Shi,0,0,China,Chine,Bamboo and Stone,1,1,autres,Pékin,2011,143.jpg,14677500,D,D,none,none,none
+189,RICHTER Gerhard,0,5,Germany,Europe,Kerze - Candle -,1,2,chris,Londres,2011,144.jpg,14630760,A,D,1982,20th,1980
+188,GRIS Juan,0,0,Spain,Europe,Le livre ,1,1,chris,Londres,2012,316.jpg,14525880,A,D,1915,20th,1910
+190,ERNST Max,0,0,Germany,Europe,The Stolen Mirror,1,1,chris,New-York,2011,145.jpg,14500000,A,D,1941,20th,1940
+191,WARHOL Andy,0,6,USA,Etats-Unis,Silver Liz,1,1,chris,New-York,2011,146.jpg,14500000,A,D,1963,20th,1960
+192,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Untitled ,1,1,autres,New-York,2012,317.jpg,14500000,A,D,1981,20th,1980
+193,DALI Salvador,0,0,Spain,Europe,Printemps nécrophilique ,1,1,soth,New-York,2012,318.jpg,14500000,A,D,1936,20th,1930
+194,WARHOL Andy,0,6,USA,Etats-Unis,Suicide,1,1,soth,New-York,2012,319.jpg,14500000,C,D,1964,20th,1960
+195,LI Keran,0,0,China,Chine,Long march,1,1,autres,Pékin,2010,147.jpg,14486400,D,D,1959,20th,1950
+196,MONET Claude,0,3,France,Europe,Dans la prairie,1,1,chris,Londres,2009,148.jpg,14381000,A,D,1876,19th,none
+197,ZENG GONG,0,0,China,Chine,letter leaf - Standard Script calligraphy,1,1,autres,Pékin,2009,149.jpg,14210500,D,D,none,20th,none
+198,VAN GOGH Vincent,0,0,Netherlands - Belgium,Europe,Vue de l'asile et de la Chapelle de Saint Rémy ,1,1,chris,Londres,2012,320.jpg,14210100,A,D,1889,19th,none
+199,STUBBS George,0,0,Great Britain,Europe,Brood Mares and Foals,1,1,soth,Londres,2010,150.jpg,14187600,A,D,1767,18th,none
+201,CUI Ruzhuo,0,0,China,Chine,Lotus,1,2,chris,Hong-Kong,2011,151.jpg,14113000,D,D,2011,21th,2010
+200,RICHTER Gerhard,0,5,Germany,Europe,Kerze,1,2,soth,Londres,2008,152.jpg,14092080,A,D,1983,20th,1980
+202,MATISSE Henri,0,0,France,Europe,La fenêtre ouverte,1,1,chris,New-York,2011,153.jpg,14000000,A,D,1911,20th,1910
+203,WANG Zhenpeng,0,0,China,Chine,Landscape ,1,1,autres,Pékin,2012,321.jpg,13940594,D,D,1323,14th,none
+204,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild ,1,2,chris,Londres,2012,322.jpg,13894320,A,D,1994,20th,1990
+206,PICASSO Pablo,0,4,Spain,Europe,Tête de femme,1,1,soth,Londres,2008,154.jpg,13853268,B,D,1906-1907,20th,1900
+205,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild (779-2),1,2,chris,New-York,2012,323.jpg,13600000,A,D,1992,20th,1990
+207,WU Hufan,0,0,China,Chine,Landscape,1,1,autres,autres,2011,155.jpg,13553600,D,D,1954,20th,1950
+208,MURAKAMI Takashi,0,0,Japan,Japon,My Lonesome Cowboy,1,2,soth,New-York,2008,157.jpg,13500000,B,D,1998,20th,1990
+209,MONET Claude,0,3,France,Europe,Effet de printemps à Giverny,1,1,soth,New-York,2010,158.jpg,13500000,A,D,1890,19th,none
+210,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild,1,2,soth,New-York,2008,156.jpg,13500000,A,D,none,none,none
+211,TWOMBLY Cy,0,0,USA,Etats-Unis,Unititled,1,1,chris,New-York,2011,159.jpg,13500000,A,D,1967,20th,1960
+212,WARHOL Andy,0,6,USA,Etats-Unis,Green Disaster Twice,1,1,soth,New-York,2012,324.jpg,13500000,C,D,1963,20th,1960
+213,MONET Claude,0,3,France,Europe,La plage à Trouville,1,1,soth,Londres,2008,160.jpg,13458588,A,D,1870,19th,none
+214,MATISSE Henri,0,0,France,Europe,Nu au coussin bleu,1,1,chris,New-York,2010,161.jpg,13400000,A,D,1924,20th,1920
+215,ZAMPIERI Domenico,0,0,Italy,Europe,Saint John the Evangelist,1,1,chris,Londres,2009,162.jpg,13357800,A,D,1624-1629,17th,none
+216,LI Keran,0,0,China,Chine,The Long March,1,1,autres,Pékin,2010,163.jpg,13226400,D,D,1978,20th,1970
+217,ZHANG Daqian,0,0,China,Chine,Aachensee Lake,1,1,autres,Pékin,2010,164.jpg,13203000,D,D,1968,20th,1960
+218,BRANCUSI Constantin,0,0,Romania,Europe,Le premier cri,1,1,chris,New-York,2011,166.jpg,13200000,B,D,1917,20th,1910
+219,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild - 710,1,2,chris,New-York,2008,165.jpg,13200000,A,D,1989,20th,1990
+220,MIRO Joan,0,0,Spain,Europe,Tête humaine ,1,1,soth,New-York,2012,325.jpg,13200000,A,D,1931,20th,1930
+221,HONG Yi,0,0,China,Chine,Figure,1,1,autres,Pékin,2011,167.jpg,13115500,D,D,1939,20th,1930
+222,LÉGER Fernand,0,0,France,Europe,La tasse de thé,1,1,chris,Paris,2009,168.jpg,13053960,A,D,1921,20th,1920
+223,GIACOMETTI Alberto,0,2,Switzerland,Europe,La Place II,1,1,chris,New-York,2008,170.jpg,13000000,B,D,1948,20th,1940
+224,GIACOMETTI Alberto,0,2,Switzerland,Europe,Caroline,1,1,soth,New-York,2008,169.jpg,13000000,A,D,1963,20th,1960
+225,PICASSO Pablo,0,4,Spain,Europe,Mousquetaire à la pipe,1,1,chris,New-York,2009,173.jpg,13000000,A,D,1968,20th,1960
+227,RAUSCHENBERG Robert,0,0,USA,Etats-Unis,Overdrive,1,1,soth,New-York,2008,171.jpg,13000000,A,D,1963,20th,1960
+228,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild - 625,1,2,chris,New-York,2008,172.jpg,13000000,A,D,1987,20th,1980
+226,PICASSO Pablo,0,4,Spain,Europe,Tête de femme,1,1,soth,Londres,2008,174.jpg,12998040,A,D,1938,20th,1930
+229,RENOIR Auguste,0,0,France,Europe,La loge ou L’avant-scène,1,1,soth,Londres,2008,175.jpg,12998040,A,D,1874,19th,none
+230,QI Baishi,0,0,China,Chine,Banana trees,1,1,autres,autres,2011,176.jpg,12765600,D,D,none,none,none
+232,RICHTER Gerhard,0,5,Germany,Europe,Zwei Liebespaare,1,2,chris,Londres,2008,177.jpg,12736750,A,D,1966,20th,1960
+231,FONTANA Lucio,0,0,Argentina,Argentine,Concetto Spaziale  la fin di dio,1,1,chris,Londres,2008,178.jpg,12696000,A,D,1963,20th,1960
+233,FU Baoshi,0,0,China,Chine,Composition of dufu’s poem ,1,1,autres,Pékin,2012,326.jpg,12673267,D,D,1944,20th,1940
+234,CHIRICO de Giorgio,0,0,Italy,Europe,Il Ritornante,1,1,chris,Paris,2009,179.jpg,12542040,A,D,1918,20th,1910
+235,BACON Francis,0,1,Great Britain,Europe,Figure in Movthnt,1,1,soth,New-York,2010,182.jpg,12500000,A,D,1985,20th,1980
+236,DERAIN André,0,0,France,Europe,Barques au port de Collioure,1,1,soth,New-York,2009,181.jpg,12500000,A,D,1905,20th,1900
+237,LICHTENSTEIN Roy,0,0,USA,Etats-Unis,Ice Cream Soda,1,1,soth,New-York,2010,183.jpg,12500000,A,D,1962,20th,1960
+238,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild,1,2,soth,New-York,2011,184.jpg,12500000,A,D,1992,20th,1990
+239,STILL Clyfford,0,0,USA,Etats-Unis,1946 - PH 182,1,1,chris,New-York,2008,180.jpg,12500000,A,D,1946,20th,1940
+241,KOONING de Willem,0,0,USA,Etats-Unis,Untitled I ,1,1,chris,New-York,2012,327.jpg,12500000,A,D,1980,20th,1980
+240,QI Baishi,0,0,China,Chine,flowers and insects,1,1,autres,Pékin,2009,185.jpg,12452500,D,D,1947,20th,1940
+242,HALS Frans I,0,0,Netherlands - Belgium,Europe,Portrait of Willem van heythuysen  seated on a Chair and holding a hunt,1,1,soth,Londres,2008,186.jpg,12433680,A,D,1864,19th,none
+246,QI Baishi,0,0,China,Chine,Flowers and birds,1,1,autres,Pékin,2011,187.jpg,12368000,A,D,fin 19e début 20e,none,none
+244,SIGNAC Paul,0,0,France,Europe,"La Corne d'Or, Constantinople ",1,1,chris,Londres,2012,328.jpg,12315420,A,D,1907,20th,1900
+245,MODIGLIANI Amedeo,0,0,Italy,Europe,Jeanne Hébuterne au collier,1,1,soth,New-York,2010,189.jpg,12250000,A,D,1916-17,20th,1910
+243,VAN DONGEN Kees,0,0,Netherlands - Belgium,Europe,Jeune arabe,1,1,soth,New-York,2009,188.jpg,12250000,A,D,1910-1911,20th,1910
+247,MIRO Joan,0,0,Spain,Europe,"Peinture (Femme, Journal, Chien) ",1,1,chris,New-York,2012,329.jpg,12200000,A,D,1925,20th,1920
+248,ZHOU Zhimian,0,0,China,Chine,Flowers,1,1,autres,Pékin,2010,190.jpg,12174300,A,D,16e,16th,none
+249,RUBENS Peter Paul,0,0,Netherlands - Belgium,Europe,Portrait of a commander,1,1,chris,Londres,2010,191.jpg,12115200,A,D,17e,17th,none
+250,DYCK van Anthonius,0,0,Netherlands - Belgium,Europe,Self Portrait,1,1,soth,Londres,2009,192.jpg,12072360,A,D,17e,17th,none
+251,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Boxer,1,1,chris,New-York,2008,193.jpg,12000000,A,D,1982,20th,1980
+252,DIEBENKORN Richard,0,0,USA,Etats-Unis,Ocean Park # 48 ,1,1,chris,New-York,2012,330.jpg,12000000,A,D,1971,20th,1970
+253,PICASSO Pablo,0,4,Spain,Europe,Le Viol ,1,1,soth,New-York,2012,331.jpg,12000000,D,D,1940,20th,1940
+254,WARHOL Andy,0,6,USA,Etats-Unis,Mao ,1,1,autres,New-York,2012,332.jpg,12000000,C,D,1973,20th,1970
+255,XU Yang,0,0,China,Chine,Landscape,1,1,autres,Pékin,2010,194.jpg,11971800,D,D,18e,18th,none
+256,PICASSO Pablo,0,4,Spain,Europe,Femme assise ,1,1,chris,Londres,2012,333.jpg,11927440,A,D,1949,20th,1940
+257,BACON Francis,0,1,Great Britain,Europe,Crouching Nude,1,1,soth,Londres,2011,195.jpg,11825940,A,D,1961,20th,1960
+258,VAN GOGH Vincent,0,0,Netherlands - Belgium,Europe,Parc de l'hôpital Saint Paul,1,1,chris,Londres,2010,196.jpg,11823200,A,D,1889,19th,none
+259,REMBRANDT VAN RIJN,0,0,Netherlands - Belgium,Europe,A man in a gorget and cap,1,1,chris,Londres,2012,334.jpg,11758500,A,D,17e,17th,none
+260,FONTANA Lucio,0,0,Argentina,Argentine,Concetto Spaziale  Attesa,1,1,chris,Londres,2008,197.jpg,11757000,A,D,1965,20th,1960
+261,RICHTER Gerhard,0,5,Germany,Europe,Matrosen - Sailors,1,2,soth,New-York,2010,198.jpg,11750000,A,D,1966,20th,1960
+262,QIAN LONG Emperor,0,0,China,Chine,An Old Cypress,1,1,autres,Pékin,2010,199.jpg,11723400,D,D,1750,18th,none
+263,PICASSO Pablo,0,4,Spain,Europe,Buste de femme ,1,1,chris,New-York,2012,335.jpg,11600000,A,D,1937,20th,1930
+264,MONET Claude,0,3,France,Europe,L'Entrée de Giverny en Hiver ,1,1,soth,Londres,2012,336.jpg,11557360,A,D,1885,19th,none
+265,RICHTER Gerhard,0,5,Germany,Europe,Zwei Kerzen,1,2,chris,New-York,2010,201.jpg,11500000,A,D,1982,20th,1980
+266,TURNER J.M. William,0,0,Great Britain,Europe,The Temple of Jupiter Panellenius restored,1,1,soth,New-York,2009,200.jpg,11500000,A,D,19th,19th,none
+267,PICASSO Pablo,0,4,Spain,Europe,Tête de femme - Jacqueline,1,1,chris,Londres,2010,202.jpg,11473920,A,D,1963,20th,1960
+268,FU Baoshi,0,0,China,Chine,Song of a pipa player,1,1,autres,Pékin,2011,203.jpg,11412000,D,D,1945,20th,1940
+269,QI Baishi,0,0,China,Chine,Ode of Motherland,1,1,autres,Pékin,2012,337.jpg,11405941,D,D,1954,20th,1950
+204,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Palm Springs Jump,1,1,chris,Londres,2008,204.jpg,11365100,A,D,1982,20th,1980
+338,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Irony of Negro Policeman ,1,1,autres,Londres,2012,338.jpg,11315080,A,D,1981,20th,1980
+339,BRANCUSI Constantin,0,0,Romania,Europe,Prométhée ,1,1,soth,New-York,2012,339.jpg,11250000,A,D,1911,20th,1910
+206,KLEIN Yves,0,0,France,Europe,Anthropométrie Le Buffle - ANT 93,1,1,chris,New-York,2010,206.jpg,11000000,A,D,1960-1961,20th,1960
+205,PICASSO Pablo,0,4,Spain,Europe,Partition  guitare  compotiier,1,1,chris,New-York,2008,205.jpg,11000000,A,D,1924,20th,1920
+340,BRANCUSI Constantin,0,0,Romania,Europe,Une muse ,1,1,chris,New-York,2012,340.jpg,11000000,B,D,1912,20th,1910
+341,KOONING de Willem,0,0,USA,Etats-Unis,Untitled VI ,1,1,autres,New-York,2012,341.jpg,11000000,A,D,1975,20th,1970
+342,RICHTER Gerhard,0,5,Germany,Europe,Kegel ,1,2,autres,New-York,2012,342.jpg,11000000,A,D,1985,20th,1980
+343,WARHOL Andy,0,6,USA,Etats-Unis,Nine Jackies ,1,1,autres,New-York,2012,343.jpg,11000000,C,D,1964,20th,1960
+207,ZHU Da,0,0,China,Chine,Imitation of Ni Zan’s landscape,1,1,autres,Pékin,2009,207.jpg,10980000,D,D,nonth,none,none
+208,CHEN Yifei,0,0,China,Chine,Wind of Mountain Village,1,2,autres,Pékin,2011,208.jpg,10934000,A,D,1994,20th,1990
+209,KOONING de Willem,0,0,Netherlands - Belgium,Europe,Untitled IV,1,1,chris,New-York,2008,209.jpg,10750000,A,D,1975,20th,1970
+344,MONET Claude,0,3,France,Europe,Champ de Blé ,1,1,soth,New-York,2012,344.jpg,10750000,A,D,1881,19th,none
+345,KLEIN Yves,0,0,France,Europe,Relief éponge bleu (RE 51),1,1,chris,Londres,2012,345.jpg,10588280,A,D,1959,20th,1950
+210,KOONS Jeff,0,0,USA,Etats-Unis,New Hoover Convertibles  New Shelton Wet Drys 5-Gallon  Double Decker,1,2,chris,New-York,2008,210.jpg,10500000,B,D,1981-1987,20th,1980
+211,RODIN Auguste,0,0,France,Europe,Le penseur,1,1,soth,New-York,2010,211.jpg,10500000,B,D,1880-1881,19th,none
+346,LICHTENSTEIN Roy,0,0,China,Chine,Sailboats III ,1,1,soth,New-York,2012,346.jpg,10500000,A,D,1974,20th,1970
+212,MONET Claude,0,3,France,Europe,Nymphéas,1,1,chris,New-York,2008,212.jpg,10400000,A,D,1908,20th,1900
+213,SOUTINE Chaïm,0,0,Bielorussia,Europe,Le valet de chambre,1,1,soth,Londres,2010,213.jpg,10385900,A,D,1927-1928,20th,1920
+214,BONNARD Pierre,0,0,France,Europe,Terrasse à Vernon,1,1,chris,Londres,2011,214.jpg,10318080,A,D,1923,20th,1920
+347,WEN Zhengming,0,0,China,Chine,Landscape ,1,1,autres,autres,2012,377.jpg,10297030,D,D,1531,16th,none
+348,KIRCHNER Ernst Ludwig,0,0,Germany,Europe,Das Boskett: Albertplatz in Dresden ,1,1,soth,Londres,2012,348.jpg,10290800,A,D,1911,20th,1910
+215,PICASSO Pablo,0,4,Spain,Europe,Homme à l’épée,1,1,soth,Londres,2009,215.jpg,10275880,A,D,1969,20th,1960
+216,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild,1,2,soth,Londres,2011,216.jpg,10257920,A,D,1990,20th,1990
+217,WU Guanzhong,0,0,China,Chine,Former residence of Qiu Jin,1,1,autres,Pékin,2011,217.jpg,10244000,A,D,2002,21th,2000
+218,GÉRICAULT Théodore,0,0,France,Europe,Portrait d’Alfred et Elisabeth Dedreux,1,1,chris,Paris,2009,218.jpg,10210400,A,D,1818,19th,none
+219,GIACOMETTI Alberto,0,2,Switzerland,Europe,Trois hommes qui marchent I,1,1,chris,New-York,2008,219.jpg,10200000,B,D,1948,20th,1940
+220,DUCHAMP Marcel,0,0,France,Europe,Belle haleine  Eau de violette,1,1,chris,Paris,2009,220.jpg,10110420,B,D,1921,20th,1920
+221,MANET Édouard,0,0,France,Europe,Bouquet de Pivoines,1,1,soth,Londres,2010,221.jpg,10089160,A,D,1882,17th,none
+222,PICASSO Pablo,0,4,Spain,Europe,Femme au chapeau,1,1,chris,Londres,2008,222.jpg,10080150,A,D,1938,20th,1930
+223,ZHU Da,0,0,China,Chine,Lotus,1,1,autres,Pékin,2011,223.jpg,10055500,D,D,1699,17th,none
+349,MAGRITTE René,0,0,Netherlands - Belgium,Europe,Les jours gigantesques ,1,1,chris,Londres,2012,349.jpg,10044160,A,D,1928,20th,1920
+224,VAN DONGEN Kees,0,0,Netherlands - Belgium,Europe,La gitane,1,1,chris,Londres,2010,224.jpg,10039680,A,D,1910-1911,20th,1910
+227,GAUGUIN Paul,0,0,France,Europe,Jeune tahitienne,1,1,soth,New-York,2011,227.jpg,10000000,B,D,1893,19th,none
+225,BASQUIAT Jean-Michel,0,0,USA,Etats-Unis,Fallen Angel,1,1,autres,New-York,2008,225.jpg,10000000,A,D,1981,20th,1980
+228,JAWLENSKY von Alexej,0,0,Russia,Russie,Frau mit grünem fächer,1,1,soth,New-York,2011,228.jpg,10000000,A,D,1912,20th,1910
+226,RICHTER Gerhard,0,5,Germany,Europe,Abstraktes Bild,1,2,soth,New-York,2010,226.jpg,10000000,A,D,1992,20th,1990
+350,GIACOMETTI Alberto,0,2,Switzerland,Europe,La Jambe ,1,1,chris,New-York,2012,350.jpg,10000000,B,D,1947,20th,1940
+229,ZHANG Daqian,0,0,China,Chine,Fairy Scattering Flowers,1,1,autres,Pékin,2010,229.jpg,9994950,D,D,1935,20th,1930
+230,WARHOL Andy,0,6,USA,Etats-Unis,Mao,1,1,chris,Londres,2011,230.jpg,9895200,C,D,1973,20th,1970
+232,PICASSO Pablo,0,4,Spain,Europe,Homme assis au fusil,1,1,chris,Londres,2008,232.jpg,9882500,A,D,1969,20th,1960
+231,VAN DONGEN Kees,0,0,Netherlands - Belgium,Europe,L’Ouled Naïl,1,1,chris,Londres,2008,231.jpg,9882500,A,D,1910,20th,1910
+233,GIACOMETTI Alberto,0,2,Switzerland,Europe,Buste,1,1,soth,Londres,2008,233.jpg,9847000,A,D,1947,20th,1940
+234,RAUSCHENBERG Robert,0,0,USA,Etats-Unis,Studio Painting,1,1,chris,New-York,2010,234.jpg,9800000,A,D,1960-1961,20th,1960
+351,KLINE Franz,0,0,USA,Etats-Unis,De Medici ,1,1,chris,New-York,2012,351.jpg,9800000,A,D,1956,20th,1950
+352,PICASSO Pablo,0,4,Spain,Europe,Femme au chien ,1,1,chris,Londres,2012,352.jpg,9730280,A,D,1962,20th,1960
+235,PICASSO Pablo,0,4,Spain,Europe,Mousquetaire  buste,1,1,soth,Londres,2008,235.jpg,9709128,A,D,1968,20th,1960
+236,GONCHAROVA Natalia Sergeevna,0,0,Russia,Russie,Les fleurs,2,1,chris,Londres,2008,236.jpg,9621640,A,D,1912,20th,1910
+237,XU Beihong,0,0,China,Chine,Figure,1,1,autres,Pékin,2010,237.jpg,9574500,A,D,20th,20th,none
